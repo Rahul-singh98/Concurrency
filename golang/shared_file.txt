@@ -1,0 +1,10 @@
+Thread 0 wrote to file
+Thread 1 wrote to file
+Thread 4 wrote to file
+Thread 2 wrote to file
+Thread 3 wrote to file
+Thread 9 wrote to file
+Thread 6 wrote to file
+Thread 7 wrote to file
+Thread 5 wrote to file
+Thread 8 wrote to file
